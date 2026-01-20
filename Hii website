@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>भारत के सभी स्थानों की फोटो</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; }
+        .gallery img { width: 100%; height: auto; border-radius: 5px; }
+        .gallery a { text-decoration: none; color: #333; }
+        .gallery div { text-align: center; }
+    </style>
+</head>
+<body>
+    <h1>भारत के स्थानों का अन्वेषण करें</h1>
+    <p>भारत के प्रतिष्ठित स्थानों की अद्भुत फोटो खोजें।</p>
+    
+    <div class="gallery">
+        <div>
+            <a href="place1.html">
+                <img src="https://example.com/photo1.jpg" alt="ताज महल">
+                <p>ताज महल, आगरा</p>
+            </a>
+        </div>
+        <div>
+            <a href="place2.html">
+                <img src="https://example.com/photo2.jpg" alt="केरल बैकवाटर">
+                <p>केरल बैकवाटर</p>
+            </a>
+        </div>
+        <!-- अन्य स्थानों के लिए और div जोड़ें -->
+        <div>
+            <a href="place3.html">
+                <img src="https://example.com/photo3.jpg" alt="जयपुर पैलेस">
+                <p>जयपुर पैलेस</p>
+            </a>
+        </div>
+        <!-- अधिक स्थानों के लिए दोहराएं -->
+    </div>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <title>ताज महल</title>
+</head>
+<body>
+    <h1>ताज महल, आगरा</h1>
+    <img src="https://example.com/large-photo1.jpg" alt="ताज महल" style="max-width: 100%;">
+    <p>विवरण: एक UNESCO विश्व धरोहर स्थल, जो शाश्वत प्रेम का प्रतीक है...</p>
+    <a href="index.html">गैलरी पर वापस जाएं</a>
+</body>
+</html><!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <title>ताज महल</title>
+</head>
+<body>
+    <h1>ताज महल, आगरा</h1>
+    <img src="https://example.com/large-photo1.jpg" alt="ताज महल" style="max-width: 100%;">
+    <p>विवरण: एक UNESCO विश्व धरोहर स्थल, जो शाश्वत प्रेम का प्रतीक है...</p>
+    <a href="index.html">गैलरी पर वापस जाएं</a>
+</stylecss <!DOCTYPE html>
+<html lang="hi">
+<head>
+    <meta charset="UTF-8">
+    <title>ताज महल</title>
+</head>
+<body>
+    <h1>ताज महल, आगरा</h1>
+    <img src="https://example.com/large-photo1.jpg" alt="ताज महल" style="max-width: 100%;">
+    <p>विवरण: एक UNESCO विश्व धरोहर स्थल, जो शाश्वत प्रेम का प्रतीक है...</p>
+    <a href="index.html">गैलरी पर वापस जाएं</a>
+</body>
+</html>
